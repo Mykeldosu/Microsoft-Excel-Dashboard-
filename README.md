@@ -49,7 +49,5 @@ Professionals exploring Excel for reporting and insights
 
 🖼️ Dashboard Previews
 
-
-
-<img width="341" height="395" alt="Dashboard preview1" src="https://github.com/user-attachments/assets/06d43ba1-a514-487d-b55d-68b23e10c2c9" />
-<img width="341" height="395" alt="Dashboard preview2" src="https://github.com/user-attachments/assets/2d84ec71-084c-45f8-a1f2-b1ccfbe3b5eb" />
+<img width="362" height="416" alt="Dashboard1" src="https://github.com/user-attachments/assets/517d80c1-ffc2-4c9e-a90d-63910139dc7c" />
+<img width="362" height="416" alt="Dashboard2" src="https://github.com/user-attachments/assets/97fa363a-61e2-4eb5-a69d-e4e85c8d8d6b" />
